@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "yldit0Sw4ojrZn1nsIaRcHrJoCwQOJdrYu8PrG7zBP2QxbOaahsQJe8j5WESO1pk+1K4Of1zJ2OHWmf8PdJGUg==",
+  "success": true,
+  "projectFilePath": "C:\\projects\\6term\\coursework\\ComputerAnalyzer\\ComputerAnalyzer\\ComputerAnalyzer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\system.management\\7.0.1\\system.management.7.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
